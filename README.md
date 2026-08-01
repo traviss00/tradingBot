@@ -285,3 +285,7 @@ docker-compose ps
 **Happy Trading! 🚀**
 
 For issues, check logs and documentation.
+
+## License
+
+This project is licensed under the MIT License.
